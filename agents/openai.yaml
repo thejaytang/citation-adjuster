@@ -1,0 +1,4 @@
+interface:
+  display_name: "Citation Adjuster"
+  short_description: "Audit and revise citation placement"
+  default_prompt: "Use $citation-adjuster to audit and revise citation placement in this manuscript."
