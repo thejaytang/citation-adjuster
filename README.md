@@ -4,6 +4,12 @@
 
 这个 skill 的目标不是增加引用数量，而是提高 **citation integrity**：每个引用都应服务于一个明确、局部、可核查的正文论断。
 
+## 推荐使用新版
+
+如果你需要更完整、更稳定的论文引文与参考文献审查流程，建议优先使用 [`supercite-through-zotero`](https://github.com/thejaytang/supercite-through-zotero)。
+
+`supercite-through-zotero` 在 `citation-adjuster` 的正文引文审查基础上，进一步加入了 **Zotero-first** workflow、正文引用和 **reference list** 一致性检查、参考文献真实性审查、**BibTeX/BibLaTeX** cite key 匹配，以及面向 Zotero 的导入和插入建议。它更适合需要系统核查论文引用、参考文献条目和 Zotero library 的场景。
+
 ## 功能
 
 - 审查论文、课程论文、thesis、dissertation、grant text 和 **literature review** 中的正文引文。
